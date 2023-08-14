@@ -22,7 +22,7 @@
 
 ## 📫 Let's Connect!
 
-<p>I'm always open to connecting with fellow learners, data enthusiasts, and potential collaborators. Feel free to reach out to me via <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> or <a href="https://twitter.com/yourhandle">Twitter</a>. Let's engage in insightful discussions, share ideas, and foster an environment of continuous learning.</p>
+<p>I'm always open to connecting with fellow learners, data enthusiasts, and potential collaborators. Feel free to reach out to me via <a href="https://www.linkedin.com/in/aryanphilip">LinkedIn</a> or <a href="https://twitter.com/aryan_philip1">Twitter</a>. Let's engage in insightful discussions, share ideas, and foster an environment of continuous learning.</p>
 
 <p>Thank you for visiting my GitHub profile. Your support and engagement mean a lot to me. Here's to an exciting journey of learning, growth, and innovation!</p>
 
