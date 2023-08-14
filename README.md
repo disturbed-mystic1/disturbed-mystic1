@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile!
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/UCSD_Seal.svg/150px-UCSD_Seal.svg.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdatascience.ucsd.edu%2Fwp-content%2Fuploads%2F2022%2F09%2FUCSanDiego_Halicioglu_BlueGold.png&tbnid=4Lk_keTSrLeWTM&vet=12ahUKEwiTj8m9zduAAxWCpkwKHfrYDfAQMygBegUIARDLAQ..i&imgrefurl=https%3A%2F%2Fdatascience.ucsd.edu%2F&docid=Ppnn_jjWeQeZtM&w=1531&h=331&q=uc%20san%20diego%20logo%20HDSI&ved=2ahUKEwiTj8m9zduAAxWCpkwKHfrYDfAQMygBegUIARDLAQ)" alt="UC San Diego Logo">
+<img src="file:///Users/shaajiphilip/Downloads/UC%20San%20Diego%20Logo%202016/Digital/PNG/UCSanDiegoLogo-White.png">
+
+
 
 <p>Hello there! 👋 I'm thrilled to welcome you to my GitHub repository. I'm an incoming student at the prestigious University of California, San Diego, where I will be pursuing a Master's degree in Data Science. With a passion for cutting-edge technologies and a drive to unravel the mysteries hidden in data, I'm excited to embark on this journey of learning and exploration.</p>
 
